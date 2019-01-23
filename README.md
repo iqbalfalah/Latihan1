@@ -37,6 +37,10 @@ git remote add origin https://github.com/iqbalfalah/Latihan1.git
 git push -u origin master
  
 Setelah Mengupload tugas hasilnya akan jadi seperti di bawah ini 
+
+![image](https://user-images.githubusercontent.com/46512186/51581106-5992e580-1ef9-11e9-9872-6fe3ed997e3f.png)
+
+
 Keterangan perintah diatas seperti ini :
 git init
 untuk meng-set folder yang digunakan tersebut sebagai repo local git. bisa di bilang ini instalasi git pertama kali
