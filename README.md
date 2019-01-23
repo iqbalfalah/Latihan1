@@ -2,6 +2,9 @@
 LANGKAH LANGKAH AWAL DALAM MENGGUNAKAN GITHUB
 
 Membuat akun pada layanan github
+
+![image](https://user-images.githubusercontent.com/46512186/51581023-16d10d80-1ef9-11e9-8926-a5c303a3e312.png)
+
 untuk menggunakan git, dibutuhkan sebuah layanan. Layanan yang tersedia sangat banyak namun saya menggunakan github, tidak masalah kalau nanti misalnya mau pindah ke layanan lain seperti gitlab seperti yang saya lakukan sekarang, karena saya tetap menggunakan keduanya.
 Setelah terbuat akun-nya, login dengan akun baru (kalau langsung diarahkan ke halaman utama), setelah itu pada pojok kanan atas terdapat tombol “+”, klik button tersebut dan pilih “new repository”.
 Membuat Repositori online
@@ -19,7 +22,7 @@ Mengupload folder(repositori lokal)
 git init 
 git add . 
 git commit -m "first commit" 
-git remote add origin https://github.com/RafiIkhsan/Latihan1.git 
+git remote add origin https://github.com/iqbalfalah/Latihan1.git 
 git push -u origin master
  
 Setelah Mengupload tugas hasilnya akan jadi seperti di bawah ini 
